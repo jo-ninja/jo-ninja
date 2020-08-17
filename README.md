@@ -16,6 +16,7 @@
 - 📌 More, see [here](https://joni.carrd.co/#portfolio).
 
 ## On my blog
+- [Evaluating "ReadLine using System.IO.Pipelines" Performance in C# — Part 2](https://medium.com/@joni2nja/evaluating-readline-using-system-io-pipelines-performance-in-c-part-2-b9d22c95254b)
 - [Evaluating "ReadLine using System.IO.Pipelines" Performance in C#](https://medium.com/@joni2nja/evaluating-readline-using-system-io-pipelines-performance-in-c-69e9ed658920)
 - [【Sysinternals の Process Monitor でトラブルシューティング】謎のネットワークファイル取得失敗](https://medium.com/@joni2nja/sysinternals-%E3%81%AE-process-monitor-%E3%81%A7%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-%E8%AC%8E%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%8F%96%E5%BE%97%E5%A4%B1%E6%95%97-d95b7e3d98c9)
 - [非同期処理にはスレッドがない](https://medium.com/@joni2nja/%E9%9D%9E%E5%90%8C%E6%9C%9F%E5%87%A6%E7%90%86%E3%81%AB%E3%81%AF%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89%E3%81%8C%E3%81%AA%E3%81%84-144bdec5c38b?source=friends_link&sk=a49b63a7b5c9e8c6adda02faf0b73ed0)
